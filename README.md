@@ -13,7 +13,8 @@ Go ahead to config.php and change the configuration parameters
 
 Now access to http://localhost/myproject
 
-#Screenshots
+#More information ?!
+visit our blog :https://nodeme.blogspot.com/ 
 
 
 
